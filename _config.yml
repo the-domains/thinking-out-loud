@@ -1,0 +1,28 @@
+name: Thinking Out Loud
+favicon: null
+layout_spectrum: 0.1528330200817436
+typography_spectrum: 0.8434174584690481
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7522321727592498
+  lightness: 0.6934377255383879
+  saturation: 0.35972407180815935
+  rhythmicContrast: 0.1868497752584517
+purpose: []
